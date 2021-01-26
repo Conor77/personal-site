@@ -68,7 +68,7 @@ h3{
 
 .skill-row{
     width: 50%;
-    margin: 100px auto 250px auto;
+    margin: 100px auto 100px auto;
     text-align: left;
     line-height:2;
 }
@@ -91,6 +91,7 @@ hr{
 }
 .skills{
     margin-top:50px;
+    margin-bottom:50px;
 }
 .contact-me{
     margin: 50px auto 50px auto;
